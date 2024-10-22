@@ -1,0 +1,8 @@
+origin: 原始影像 (original image)
+marked: 嵌密影像 (marked image)
+rpatab: 嵌密參數檔 (RPA Table參數檔)
+mesmea: 嵌入之祕密訊息 (embedding message)
+mesext: 取密獲得之祕密訊息 (extracted message)
+restor: 恢復之原始影像 (restored image)
+imgres: 嵌密、取密、回復數據(quality result)
+
